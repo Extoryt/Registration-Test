@@ -1,0 +1,16 @@
+{
+	"dependencies": {
+		"cypress": "^13.9.0"
+	},
+	"name": "e2e-tutorial",
+	"version": "1.0.0",
+	"description": "Jest to repozytorium, którego możesz użyć jeśli chcesz pisać test E2E ze mną. Wystarczy, że sklonujesz je na swój prywatny komputer.",
+	"main": "cypress.config.js",
+	"devDependencies": {},
+	"scripts": {
+		"cy:open": "cypress open"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
